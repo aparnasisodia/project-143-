@@ -1,0 +1,26 @@
+.copy_right_footer{
+    bottom:50;
+    position:absolute;
+    vertical-align: bottom;
+    color: whitesmoke;
+    font-family: 'Lucida Sans';
+}
+
+#start, #status, #restart{
+    font-size: 22px;
+}
+
+h3{
+    width: 100%;
+    align-content: center;
+    font-style: italic;
+    font-family: 'Lucida Sans';
+}
+
+body{
+    align-content: center;
+}
+
+canvas{
+    
+}
